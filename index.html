@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Real Estate Listings</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Real Estate Lists</h1>
+        <input type="text" id="searchInput" placeholder="Search by location or type..." />
+    </header>
+    <div id="suggestions" class="suggestions-box"></div>
+
+
+    <button id="openFormBtn" class="add-property-btn">Add Property</button>
+
+    <div id="uploadModal" class="modal hidden">
+        <div class="modal-content">
+            <span class="close" id="closeUploadModal">&times;</span>
+            <h2>List Your Property</h2>
+            <form id="uploadForm">
+                <input type="text" id="title" placeholder="Title" required />
+                <input type="text" id="location" placeholder="Location" required />
+                <input type="text" id="price" placeholder="Price" required />
+                <input type="text" id="image" placeholder="Image URL" required />
+                <textarea id="description" placeholder="Property Description" required></textarea>
+                <input type="text" id="contact" placeholder="Contact Info" required />
+                <button type="submit">Submit Property</button>
+            </form>
+        </div>
+    </div>
+
+
+    <main id="propertyList" class="property-list"></main>
+
+    <div id="modal" class="modal hidden">
+        <div class="modal-content">
+            <span class="close" id="contactClose">&times;</span>
+            <div id="modalDetails"></div>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2025 Real Estates. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
