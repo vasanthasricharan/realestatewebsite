@@ -194,7 +194,6 @@ footer {
     margin-top: 2rem;
 }
 
-/* ✅ Mobile & Tablet Responsive Styles */
 @media (max-width: 768px) {
     header {
         flex-direction: column;
