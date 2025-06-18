@@ -4,15 +4,15 @@
         "title": "Modern Family House",
         "location": "Sadashivanagar, Bengaluru",
         "type": "House",
-        "price": "$1,200,000",
+        "price": "₹18.5 Crore",
         "image": "https://www.shutterstock.com/image-photo/house-property-elderly-couple-on-260nw-2218762403.jpg",
         "gallery": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90feeAsBKBvJnJI45TPQ0p3y6IE9ul9rGQw&s",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+            "https://hips.hearstapps.com/hmg-prod/images/alexander-design-contemporary-family-room-1555952765.jpg",
             "https://media.istockphoto.com/id/1805905715/photo/elegant-big-master-bathroom.jpg?s=612x612&w=0&k=20&c=OzPs9bKIOX_gBzjd1FfQcGVzsz9OcLcV2Zyw-FAwyFw=",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "https://media.istockphoto.com/id/1938106570/photo/digitally-generated-domestic-bedroom-interior.jpg?s=612x612&w=0&k=20&c=bC_YWy11iWh0ZtHJIT5ia4v9QELdl94SVqDge9XNZcc=",
+            "https://hips.hearstapps.com/hmg-prod/images/designer-dining-rooms-gillian-segal-tef-q7-a-655e31d978e13.jpeg",
+            "defaultimage.png"
         ],
         "description": "This spacious 4-bedroom house offers modern interiors designed for comfortable living. Enjoy a beautifully maintained garden perfect for relaxing or entertaining. The property also features a secure garage and ample storage space.",
         "contact": "contact@dreamhomes.com | +1-555-1234"
@@ -22,15 +22,15 @@
         "title": "Luxury City Apartment",
         "location": "Colaba, Mumbai",
         "type": "Apartment",
-        "price": "$850,000",
+        "price": "₹8.1 Crore",
         "image": "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
         "description": "Experience urban living at its finest in this stylish 2-bedroom apartment located in the heart of Manhattan. Enjoy breathtaking skyline views from your windows. Featuring modern finishes, an open-plan layout, and premium amenities. Perfect for professionals or couples seeking a vibrant city lifestyle.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
@@ -40,17 +40,17 @@
         "title": "Modern Studio Loft",
         "location": "Koregaon Park, Pune",
         "type": "Apartment",
-        "price": "$900,000",
+        "price": "₹9 Crore",
         "image": "https://www.shutterstock.com/image-photo/luxury-studio-apartment-free-layout-600nw-1193355994.jpg",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Step into the elegance of the Modern Studio Loft, where sleek design meets smart living. This open-concept space boasts high ceilings, contemporary finishes, and abundant natural light. Perfect for urban professionals, it offers comfort and style in a compact, efficient layout.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
@@ -58,17 +58,17 @@
         "title": "Urban Chic Flat",
         "location": "Jubilee Hills, Hyderabad",
         "type": "Apartment",
-        "price": "$750,000",
+        "price": "₹7.3 Crore",
         "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291476428.jpg?k=d85b96ad5cce35ea3c9d1a6f4fc71c18e455c8b2eb4bc915826b1ea350865cef&o=&hp=1",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Designed with modern aesthetics and city living in mind, this sleek space features elegant interiors, smart layout, and vibrant urban vibes. Ideal for young professionals or couples who appreciate sophistication in a prime location. Live chic, live central.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
@@ -76,17 +76,17 @@
         "title": "Skyline Penthouse",
         "location": "Malabar Hill, Mumbai",
         "type": "Apartment",
-        "price": "$1,000,000",
+        "price": "₹10.8 Crore",
         "image": "https://assets.architecturaldigest.in/photos/65a8fe5408f03281857274ce/master/w_1600%2Cc_limit/26.jpg",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Experience elevated living at the Skyline Penthouse — a luxurious retreat with breathtaking city views. This exclusive residence features spacious interiors, premium finishes, and floor-to-ceiling windows that frame the skyline. Perfectly designed for comfort, elegance, and urban sophistication.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
@@ -94,17 +94,17 @@
         "title": "High-Rise Executive Suite",
         "location": "DLF City, Gurugram",
         "type": "Apartment",
-        "price": "$850,000",
+        "price": "₹8.5 Crore",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPBnox6Vwbsz54k8t5tG2diXab_rh1gieIQ&s",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Designed for modern professionals, this sleek suite features refined interiors, expansive views, and premium amenities. Enjoy the perfect balance of work and leisure in a space that elevates executive living.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
@@ -112,17 +112,17 @@
         "title": "Premium Townhouse",
         "location": "Sectors 5, Chandigarh",
         "type": "Apartment",
-        "price": "$1,009,999",
+        "price": "₹15.9 Crore",
         "image": "https://img.freepik.com/free-photo/analog-landscape-city-with-buildings_23-2149661456.jpg?semt=ais_hybrid&w=740",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Welcome to the Premium Townhouse, where elegance and comfort come together seamlessly. This beautifully crafted home features spacious layouts, modern interiors, and high-end finishes throughout. With private outdoor space and top-tier amenities, it offers the perfect blend of luxury and convenience for contemporary living.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
@@ -130,17 +130,17 @@
         "title": "Tranquil Suburban Retreat",
         "location": "Thiruvananthapuram",
         "type": "Apartment",
-        "price": "$800,000",
+        "price": "₹4.5 Crore",
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ab/67/4e/tranquil-resort.jpg?w=700&h=-1&s=1",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Welcome to the Tranquil Suburban Retreat – a peaceful, modern home in a serene neighborhood. Enjoy spacious living, a green outdoor setting, and all the comforts of suburban life. Perfect for relaxed, family-friendly living.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
@@ -148,17 +148,17 @@
         "title": "Lakeside Bungalow",
         "location": "Bandra, Mumbai",
         "type": "Apartment",
-        "price": "$1,200,000",
+        "price": "₹30.0 Crore",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfV6GjnJ0NUjn22Vq0XTchNvrvX9Nd8ea5gg&s",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Welcome to the Lakeside Bungalow, your perfect escape by the water. This charming home offers serene lake views, cozy interiors, and a peaceful outdoor space for relaxing or entertaining. Ideal for weekend getaways or year-round living, it blends natural beauty with everyday comfort.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
@@ -166,17 +166,17 @@
         "title": "Luxury Apartment",
         "location": "Colaba, Mumbai",
         "type": "Apartment",
-        "price": "$500,000",
+        "price": "₹7.3 Crore",
         "image": "https://admin.rustomjee.com/assets/uploads/project/project_logo/460X435/Banner.jpg",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Experience refined living at the Luxury Apartment, where modern design meets top-tier comfort. Featuring high-end finishes, spacious interiors, and premium amenities, this residence is crafted for those who appreciate elegance and convenience. Live in style, right in the heart of the city.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
@@ -184,17 +184,17 @@
         "title": "Eco Villa ",
         "location": "Assagao, Goa",
         "type": "Apartment",
-        "price": "$1,500,000",
+        "price": "₹24.5 Crore",
         "image": "https://server.ekostay.com/public/property_images/66a4c20928427_AnyConv.webp",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "A perfect harmony of sustainable living and modern luxury. Designed with eco-friendly materials and energy-efficient features, this villa offers serene surroundings, natural light, and a smart, stylish layout. Ideal for those who value comfort, beauty, and a lighter footprint on the planet.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
@@ -202,143 +202,161 @@
         "title": "Luxury Hill Cottage",
         "location": "Doddabetta Peak,Ooty",
         "type": "Apartment",
-        "price": "$700,000",
+        "price": "₹7.3 Crore",
         "image": "https://luxurystays.in/villas/green-meadows/thumbs/IMG-20231013-WA0129.jpg",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "This beautifully designed retreat offers cozy yet sophisticated interiors, panoramic views, and premium comforts throughout. Perfect for peaceful getaways or stylish hillside living, it’s where luxury and tranquility reside together.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
         "id": 13,
-        "title": "Luxury City Apartment",
-        "location": "New York, NY",
+        "title": "Modern City Apartment",
+        "location": "Mumbai, India",
         "type": "Apartment",
-        "price": "$700,000",
-        "image": "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+        "price": "₹1.8 Crore",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2N1s3ECpyH3BUcKY18Pr_1p78VgxHpwP3jQ&s",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Stylish 2-bedroom apartment with stunning city views in the heart of Mumbai. Featuring sleek interiors, ample natural light, and an open-plan layout ideal for modern living. Located close to shopping, dining, and transit hubs for ultimate convenience.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
         "id": 14,
-        "title": "Luxury City Apartment",
-        "location": "New York, NY",
+        "title": "Elegant Urban Residence",
+        "location": "Bengaluru, India",
         "type": "Apartment",
-        "price": "$850,000",
-        "image": "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+        "price": "₹2.1 Crore",
+        "image": "https://thearchitectsdiary.com/wp-content/uploads/2024/09/elegant-residence-51.jpg",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
-        "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
-    },
-    {
-        "id": 13,
-        "title": "Luxury City Apartment",
-        "location": "New York, NY",
-        "type": "Apartment",
-        "price": "$900,000",
-        "image": "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-        "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
-        ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
-        "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
-    },
-    {
-        "id": 14,
-        "title": "Luxury City Apartment",
-        "location": "New York, NY",
-        "type": "Apartment",
-        "price": "$950,000",
-        "image": "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-        "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
-        ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "This elegant 2-bedroom apartment is nestled in the vibrant heart of Bengaluru. Designed with premium finishes and smart space planning, it offers a seamless blend of comfort and sophistication. Perfect for urban professionals seeking style and convenience.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
         "id": 15,
-        "title": "Luxury City Apartment",
-        "location": "New York, NY",
+        "title": "Serene Garden Apartment",
+        "location": "Pune, Maharashtra",
         "type": "Apartment",
-        "price": "$650,000",
-        "image": "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+        "price": "₹1.45 Crore",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmckQkV2B50dq4hNEaXkQZKCTpmdi9Prkcg&s",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Peacefully located in a green enclave of Pune, this 2-bedroom garden apartment offers a blend of nature and modern design. Enjoy spacious interiors, a private balcony, and close proximity to schools, parks, and shopping. Ideal for families and professionals alike.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
         "id": 16,
-        "title": "Luxury City Apartment",
-        "location": "New York, NY",
+        "title": "Elegant Riverside Flat",
+        "location": "Jaipur, Rajasthan",
         "type": "Apartment",
-        "price": "$650,000",
-        "image": "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+        "price": "₹5.65 Crore",
+        "image": "https://dynamic-media.tacdn.com/media/vr-splice-j/01/7b/06/b9.jpg?w=800&h=-1",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Set near the serene Sabarmati riverfront, this 2-bedroom flat combines modern design with scenic charm. Spacious interiors, large windows, and premium fittings make it a true urban retreat. Perfect for those seeking peace without compromising on location.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     },
     {
         "id": 17,
-        "title": "Luxury City Apartment",
-        "location": "New York, NY",
+        "title": "Tranquil Parkview Residence",
+        "location": "Chandigarh, Chandigarh",
         "type": "Apartment",
-        "price": "$750,000",
-        "image": "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+        "price": "₹1.25 Crore",
+        "image": "https://estbd.io/1:8ef4c1aa/1142/66f28e0c9ad5f.jpg/medium",
         "gallery": [
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-            "https://images.trvl-media.com/lodging/33000000/32450000/32449000/32448981/d9f13fe2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
         ],
-        "description": "Stylish 2-bedroom apartment with skyline views in the heart of Manhattan.",
+        "description": "Nestled beside lush green parks, this 2-bedroom residence in Chandigarh offers peace and privacy in an upscale setting. Thoughtfully designed interiors, large windows, and close access to city conveniences make it an ideal urban sanctuary.",
+        "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
+    },
+    {
+        "id": 18,
+        "title": "Contemporary Skyview Apartment",
+        "location": "Hyderabad, Telangana",
+        "type": "Apartment",
+        "price": "₹4.6 Crore",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjX5rXzvG399m2NsfiqglGHhAu8xv5vUp8g&s",
+        "gallery": [
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
+        ],
+        "description": "Located in a prime area of Hyderabad, this 2-bedroom apartment offers panoramic city views and a modern open-plan layout. High-end interiors, natural lighting, and proximity to tech hubs make it a perfect choice for professionals and families alike.",
+        "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
+    },
+    {
+        "id": 19,
+        "title": "Coastal Serenity Apartment",
+        "location": "Kochi, Kerala",
+        "type": "Apartment",
+        "price": "₹3.3 Crore",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/594616217.jpg?k=74f9345c82b87557370419e1d88168da4aa47f5575896afd0218b444d43a0f90&o=&hp=1",
+        "gallery": [
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
+        ],
+        "description": "Set in the vibrant coastal city of Kochi, this 2-bedroom apartment blends modern comfort with serene surroundings. Enjoy open-plan living, natural ventilation, and easy access to beaches, cafés, and cultural landmarks.",
+        "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
+    },
+    {
+        "id": 20,
+        "title": "Backwater View Apartment",
+        "location": "Alleppey, Kerala",
+        "type": "Apartment",
+        "price": "₹1.4 Crore",
+        "image": "https://cdn.apartmentlist.com/image/upload/c_fill,dpr_auto,f_auto,g_center,h_415,q_auto,w_640/1e148b5306c0da56512a292dd09f6305.jpg",
+        "gallery": [
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png",
+            "defaultimage.png"
+        ],
+        "description": "Located in the tranquil backwaters of Alleppey, this 2-bedroom apartment offers breathtaking water views and serene surroundings. With contemporary interiors and spacious balconies, it's ideal for relaxed coastal living or a scenic holiday retreat.",
         "contact": "nyc.agent@dreamhomes.com | +1-555-5678"
     }
 ]
